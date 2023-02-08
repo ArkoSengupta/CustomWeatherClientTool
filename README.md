@@ -3,7 +3,7 @@ This is created for the purpose of PWC Technical Evaluation
 
 Steps to run the Application:
 1. Pull the project in your local system
-2. Go to CustomWeatherClientTool\CustomWeatherClientTool\bin\Debug
+2. Go to \CustomWeatherClientTool-main\CustomWeatherClientTool-main\CustomWeatherClientTool\CustomWeatherClientTool\bin\Debug
 3. Double click the CustomWeatherClientTool.exe file
 
 Steps to build the project and the run the application:
